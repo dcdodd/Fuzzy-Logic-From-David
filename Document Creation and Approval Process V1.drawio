@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T13:04:15.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QcvAsr6eRvCfMucm_6Pd" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-09T18:15:03.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tQHj5kwk__xz3sLVpQxN" version="23.1.1" type="github" pages="3">
   <diagram id="cHfjqvvM0BuzOh4KEThp" name="Document Creation Process">
     <mxGraphModel dx="1399" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -257,43 +257,25 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Sx-OnqhM1mqcstIru8j9" name="Page-3">
-    <mxGraphModel dx="1024" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="Sx-OnqhM1mqcstIru8j9" name="Groups for Workflows">
+    <mxGraphModel dx="1399" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yrxwrE262VroWua_mtE9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7baP_50SMaStdMKqbDSZ-1" target="7baP_50SMaStdMKqbDSZ-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yrxwrE262VroWua_mtE9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7baP_50SMaStdMKqbDSZ-1" target="7baP_50SMaStdMKqbDSZ-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7baP_50SMaStdMKqbDSZ-1" value="Area Approver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="yrxwrE262VroWua_mtE9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="7baP_50SMaStdMKqbDSZ-2" target="7baP_50SMaStdMKqbDSZ-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="220" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7baP_50SMaStdMKqbDSZ-2" value="Final Approver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yrxwrE262VroWua_mtE9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7baP_50SMaStdMKqbDSZ-3" target="7baP_50SMaStdMKqbDSZ-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7baP_50SMaStdMKqbDSZ-3" value="Document Author" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7baP_50SMaStdMKqbDSZ-3" value="Doc Creator" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="Qm1dV-cJvYN_BctkYzIF-1" value="Workflow Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7baP_50SMaStdMKqbDSZ-4" value="Testing - Mitch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7baP_50SMaStdMKqbDSZ-5" value="Standards - David" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7baP_50SMaStdMKqbDSZ-6" value="Final Approval" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7baP_50SMaStdMKqbDSZ-7" value="Owner of Document" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="Qm1dV-cJvYN_BctkYzIF-2" value="&lt;h1&gt;Groups for Workflows&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="70" width="300" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
